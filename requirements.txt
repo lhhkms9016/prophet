@@ -7,6 +7,6 @@ statsmodels==0.13.5
 seaborn==0.12.1
 setuptools>=42
 wheel
-cython
+cython>=0.22
 pystan==2.19.1.1
-prophet==1.1
+prophet==1.0
